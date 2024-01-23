@@ -274,4 +274,8 @@ meow: gzip compressed data, from Unix, original size modulo 2^32 145049600
 meow: POSIX tar archive (GNU)
 [brendan@localhost ~]$ mv meow meow.tar
 [brendan@localhost ~]$ tar -xf meow.tar
+
+
+[brendan@localhost ~]$ ls
+bin  dawa  meow.rar  meow.tar  meow.zip
 ```
