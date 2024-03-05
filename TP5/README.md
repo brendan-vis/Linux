@@ -30,3 +30,22 @@ PATH directories
  - /usr/bin
 Here is your random cat (jpg file) : https://cdn2.thecatapi.com/images/acp.jpg
 ```
+
+## II. Script youtube-dl
+
+### 1. Premier script youtube-dl
+
+### B. Rendu attendu
+
+🌞 Vous fournirez dans le compte-rendu, en plus du fichier, un exemple d'exécution avec une sortie
+
+```
+[brendan@TP5 yt]$ ./yt.sh https://www.youtube.com/watch?v=s8927HywobY
+
+
+[brendan@TP5 yt]$ cat download.log
+[24/03/05 16:57:53] video https://www.youtube.com/watch?v=2yJgwwDcgV8 was downloaded. File path : Nyan Cat! [Official]
+[24/03/05 17:04:00] video https://www.youtube.com/watch?v=O_HUXxSHkO8 was downloaded. File path : Francky Vincent - Tu veux mon zizi (Clip Officiel)
+[24/03/05 17:07:28] video https://www.youtube.com/watch?v=x70rr6aU-xQ was downloaded. File path : La mort ou tchichi
+[24/03/05 17:10:08] video https://www.youtube.com/watch?v=s8927HywobY was downloaded. File path : C’est qui le patron ! C’est moi
+```
